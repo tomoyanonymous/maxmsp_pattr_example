@@ -1,0 +1,39 @@
+{
+	"pattrstorage" : 	{
+		"name" : "store",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"pingpong1::delaytime" : [ 0.0 ],
+					"pingpong1::feedback" : [ 0.548 ],
+					"pingpong1::spread" : [ 0.0 ],
+					"pingpong1::mix" : [ 0.0 ],
+					"pingpong2::delaytime" : [ 0.0 ],
+					"pingpong2::feedback" : [ 0.54 ],
+					"pingpong2::spread" : [ 0.0 ],
+					"pingpong2::mix" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"pingpong1::delaytime" : [ 0.0 ],
+					"pingpong1::feedback" : [ 0.7 ],
+					"pingpong1::spread" : [ 0.0 ],
+					"pingpong1::mix" : [ 0.0 ],
+					"pingpong2::delaytime" : [ 0.0 ],
+					"pingpong2::feedback" : [ 0.16 ],
+					"pingpong2::spread" : [ 0.0 ],
+					"pingpong2::mix" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
